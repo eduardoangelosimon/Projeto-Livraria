@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-class Estoque
+public class Estoque
 {
     public Estoque()
     {

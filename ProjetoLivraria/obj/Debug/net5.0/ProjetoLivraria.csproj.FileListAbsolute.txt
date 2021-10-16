@@ -1,0 +1,15 @@
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/bin/Debug/net5.0/ProjetoLivraria.deps.json
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/bin/Debug/net5.0/ProjetoLivraria.runtimeconfig.json
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/bin/Debug/net5.0/ProjetoLivraria.runtimeconfig.dev.json
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/bin/Debug/net5.0/ProjetoLivraria.dll
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/bin/Debug/net5.0/ref/ProjetoLivraria.dll
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/bin/Debug/net5.0/ProjetoLivraria.pdb
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.csproj.AssemblyReference.cache
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.AssemblyInfoInputs.cache
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.AssemblyInfo.cs
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.csproj.CoreCompileInputs.cache
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.dll
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ref/ProjetoLivraria.dll
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.pdb
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.genruntimeconfig.cache

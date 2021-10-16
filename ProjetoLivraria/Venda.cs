@@ -2,19 +2,20 @@
 using System.Collections.Generic;
 class Venda
 {
-    public Venda(int id, Vendedor vendedor, Cliente cliente, Estoque estoque)
+    public Venda(int id, Vendedor vendedor, Cliente cliente, Loja loja)
     {
         Id = id;
         Vendedor = vendedor;
         Cliente = cliente;
         _produtos = new List<Produto>();
-        _estoque = estoque;
+        Loja = loja;
     }
     private List<Produto> _produtos;
     private Estoque _estoque;
     public int Id { get; set; }
     public Vendedor Vendedor { get; set; }
     public Cliente Cliente { get; set; }
+    public Loja Loja { get; set; }
     public void AddProduto(Produto prod)
     {
         bool status = _estoque.VerificaDisponibilidade(prod);

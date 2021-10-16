@@ -1,12 +1,12 @@
 ﻿class Cliente
 {
-    public Cliente(int id, string nome, string endereco)
+    public Cliente(int cpf, string nome, string endereco)
     {
-        Id = id;
+        CPF = cpf;
         Nome = nome;
         Endereco = endereco;
     }
-    public int Id { get; set; }
+    public int CPF { get; set; }
     public string Nome { get; set; }
     public string Endereco { get; set; }
 }
