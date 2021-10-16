@@ -1,6 +1,6 @@
 # 📚Projeto-Livraria
 
-Este é um projeto desenvolvido durante o 1° Bimestre do 4° Período do curso de Sistemas de Informação. A aplicação consiste em um sistema de vendas e entregas de uma livraria online. Nele é possível fazer cadastro de novos funcionários, clientes, entre outros. Além disso, também o usuário pode ter acesso a uma tabela excel contendo todos os produtos em estoque.
+Este é um projeto desenvolvido durante o 1° Bimestre do 4° Período do curso de Sistemas de Informação na <a href="https://uvv.br/" target="_blank">Universidade Vila Velha</a> . A aplicação consiste em um sistema de vendas e entregas de uma livraria online. Nele é possível fazer cadastro de novos funcionários, clientes, entre outros. Além disso, também o usuário pode ter acesso a uma tabela excel contendo todos os produtos em estoque.
 
 # 🚀Tecnologias:
 
