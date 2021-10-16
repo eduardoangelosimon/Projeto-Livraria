@@ -6,7 +6,9 @@ Este é um projeto desenvolvido durante o 1° Bimestre do 4° Período do curso 
 
 Essas foram as tecnologias utilizadas no desenvolvimento do projeto:
 
+
 - <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">C#</a> <br>
+- <a href="https://github.com/" target="_blank">GitHub</a> <br>
 
 ________________________________________________________________________________________________________________________________________________________________________________
 <p align="center">Desenvolvido com 🧡 Eduardo Angelo Simon & Larissa Dantier</p>
