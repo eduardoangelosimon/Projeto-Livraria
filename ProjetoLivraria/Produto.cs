@@ -1,6 +1,6 @@
 ﻿public class Produto
 {
-    public Produto(int id, string categoria, string nome, decimal preco)
+    public Produto(int id, string categoria, string nome, double preco)
     {
         Id = id;
         Categoria = categoria;
@@ -10,6 +10,6 @@
     public int Id { get; set; }
     public string Categoria { get; set; }
     public string Nome { get; set; }
-    public decimal Preco { get; set; }
+    public double Preco { get; set; }
 }
 

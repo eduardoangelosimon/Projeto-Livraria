@@ -8,4 +8,3 @@ class EntregaCorreios : ISetorEntrega
         Console.WriteLine("Um dia seu produto será entregue, se não extraviar.");
     }
 }
-

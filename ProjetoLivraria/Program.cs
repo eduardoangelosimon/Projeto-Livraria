@@ -14,7 +14,7 @@ class Program
 
         Produto produto1 = new Produto(1, "Acessório", "Marcador de Página", 2.50m);
         Produto produto2 = new Produto(2, "Livro", "O Poder do Hábito", 35.99m);
-        Produto produto3 = new Produto(3, "Livro", "Código Limpo", 1999.99m);
+        Produto produto3 = new Produto(3, "Livro", "Código Limpo", 89.99m);
         Produto produto4 = new Produto(4, "Papelaria", "Caderno", 14.99m);
         Produto produto5 = new Produto(5, "Games", "Gift Card", 50.00m);
 
@@ -45,7 +45,7 @@ class Program
 
 
 
-        Venda venda01 = new Venda(1, vendedor2, cliente4, loja1);
+        Venda venda01 = new Venda(1, Venda.valor, vendedor2, cliente4, loja1);
         try
         {
             venda01.AddProduto(produto3);
