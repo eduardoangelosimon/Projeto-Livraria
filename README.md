@@ -1,6 +1,6 @@
 # 📚Projeto Livraria
 
-Este é um projeto desenvolvido durante o 1° Bimestre do 4° Período do curso de Sistemas de Informação na <a href="https://uvv.br/" target="_blank">Universidade Vila Velha</a>. A aplicação consiste em um sistema de vendas e entregas de uma livraria online. Nele é possível fazer cadastro de novos funcionários, clientes, entre outros. Além disso, também o usuário pode ter acesso a um arquivo .txt contendo o catálogo de produtos da loja.
+Este é um projeto desenvolvido durante o 1° Bimestre do 4° Período do curso de Sistemas de Informação na <a href="https://uvv.br/" target="_blank">Universidade Vila Velha</a>. A tarefa passada é constituída por entregas de diversos itens, sendo eles: Um diagrama de classes, uma interface gui (linha de comando), um GitHub com Read.me do projeto e um vídeo de apresentação. A aplicação desenvolvida pelo grupo consiste em um sistema de vendas e entregas de uma livraria online. Nele é possível acessar o catálogo de produtos da loja em um arquivo .txt, uma lista de clientes também em .txt, entre outros.
 
 # ▤Diagrama de Classes:
 <img src="https://github.com/eduardoangelosimon/Projeto-Livraria/blob/main/DiagramaDeClasse.png?raw=true">
