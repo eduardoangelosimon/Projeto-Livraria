@@ -4,6 +4,7 @@ Este é um projeto desenvolvido durante o 1° Bimestre do 4° Período do curso 
 
 # ▤Diagrama de Classes:
 <img src="https://github.com/eduardoangelosimon/Projeto-Livraria/blob/main/DiagramaDeClassesLivraria.png?raw=true">
+
 # 🚀Tecnologias:
 
 Essas foram as tecnologias utilizadas no desenvolvimento do projeto:
