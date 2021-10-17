@@ -13,3 +13,5 @@
 /Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ref/ProjetoLivraria.dll
 /Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.pdb
 /Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.genruntimeconfig.cache
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/eduardosimon/Documents/Documentos/Estudo/UVV/Matérias/POO_2/Projeto-Livraria/ProjetoLivraria/obj/Debug/net5.0/ProjetoLivraria.csproj.CopyComplete

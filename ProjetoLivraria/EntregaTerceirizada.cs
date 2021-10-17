@@ -1,19 +1,27 @@
 ﻿using System;
+using System.Collections.Generic;
+
 class EntregaTerceirizada : ISetorEntrega
 {
-    public void DespacharProdutos(Venda venda)
+    public void DespacharProdutos(Venda venda, Estoque _estoque)
     {
-        Verificar();
-        Enviar();
+        foreach (var item in venda._produtos)
+        {
+            Enviar(_estoque, item);
+        }
     }
-    private void Verificar()
+
+    private void Enviar(Estoque _estoque, Produto _produto)
     {
-        Console.WriteLine("Verificando Parceiro.");
-    }
-    private void Enviar()
-    {
-        Random rand = new Random();
-        Console.WriteLine($"Produto chegara em {rand.Next(1 , 360)} dias");
+
+        if(_estoque.VerificaDisponibilidade(_produto)){
+            Console.WriteLine($"Produto em falta no estoque!");
+        }
+
+        else
+        {
+            Random rand = new Random();
+            Console.WriteLine($"A sua compra chegará em {rand.Next(1 , 50)} dias");
+        }
     }
 }
-

@@ -11,7 +11,7 @@ class Venda
         _produtos = new List<Produto>();
         Loja = loja;
     }
-    private List<Produto> _produtos;
+    public List<Produto> _produtos;
     private Estoque _estoque;
     public int Id { get; set; }
     public double Valor { get; set; }
@@ -21,17 +21,13 @@ class Venda
     public void AddProduto(Produto prod)
     {
         bool status = _estoque.VerificaDisponibilidade(prod);
-        if (status)
+        if (status) 
+        {
             _produtos.Add(prod);
+            Console.WriteLine("Teste");
+        }
+
         else
             throw new Exception($"Não há estoque do produto:{prod.Id}");
-    }
-
-    public double getValor()
-    {
-        foreach (Produto produto in _produtos)
-        {
-            
-        }
     }
 }

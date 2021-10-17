@@ -1,0 +1,7 @@
+Lista de produtos:
+ID | Categoria  | Nome                 | Preço (R$)
+1  | Acessório  | Marcador de Página   | 2.50
+2  | Livro      | O Poder do Hábito    | 35.99
+3  | Livro      | Código Limpo         | 89.99
+4  | Papelaria  | Caderno              | 14.99
+5  | Games      | Gift Card Steam      | 50.00

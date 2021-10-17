@@ -1,0 +1,6 @@
+Lista de clientes:
+ID       |Nome              | Endereço
+11111111 | Eduardo Simon    | Vila Velha
+22222222 | Larissa Dantier  | Campos dos Goytacazes
+33333333 | Marcio Pinheiro  | Vila Velha
+44444444 | Allan Faé        | Cariacica
