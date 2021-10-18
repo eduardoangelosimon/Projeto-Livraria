@@ -21,7 +21,7 @@ class EntregaTerceirizada : ISetorEntrega
         else
         {
             Random rand = new Random();
-            Console.WriteLine($"A sua compra chegará em {rand.Next(1 , 50)} dias");
+            Console.WriteLine($"A sua compra chegará em {rand.Next(1 , 25)} dias");
         }
     }
 }
